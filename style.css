@@ -1,0 +1,10 @@
+body{
+  min-height:100vh;
+}
+.row1{
+    min-height: 100vh;
+}
+img{
+    object-fit: cover;
+    height:40vh;
+}
